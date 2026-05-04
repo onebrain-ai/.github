@@ -1,11 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-  <img alt="OneBrain" src="header-light.png" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img alt="OneBrain — Your AI Thinking Partner — for Obsidian." src="assets/header-light.png" width="560">
 </picture>
-
-### Your AI Thinking Partner — for Obsidian.
 
 <a href="https://onebrain.run"><img alt="Website" src="https://img.shields.io/badge/onebrain.run-0a0a14?style=for-the-badge&labelColor=ff2d92"></a>
 <a href="https://x.com/onebrain_run"><img alt="@onebrain_run on X" src="https://img.shields.io/badge/follow-@onebrain__run-000000?style=for-the-badge&logo=x&logoColor=white"></a>
