@@ -2,7 +2,10 @@
 
 <img src="brain.png" alt="OneBrain" width="120">
 
-# OneBrain
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.png">
+  <img alt="OneBrain" src="wordmark-light.png" width="240">
+</picture>
 
 ### Your AI Thinking Partner — for Obsidian.
 
