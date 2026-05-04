@@ -25,10 +25,10 @@ npm install -g @onebrain-ai/cli
 | [`onebrain`](https://github.com/onebrain-ai/onebrain) | CLI · Claude Code plugin · agent core (`@onebrain-ai/cli`) |
 | [`website`](https://github.com/onebrain-ai/website) | Marketing site — [onebrain.run](https://onebrain.run) |
 
-## Built in Public
+## Topics
 
-Follow the build at [@onebrain_run](https://x.com/onebrain_run) · `#BuildInPublic` `#Obsidian`
+`obsidian` · `claude-code` · `personal-ai` · `ai-agent` · `ai-os` · `pkm` · `second-brain` · `knowledge-base` · `note-taking` · `memory` · `markdown` · `local-first` · `personal-knowledge-management` · `gemini-cli` · `productivity`
 
 ---
 
-<sub>OneBrain · hello@onebrain.run</sub>
+<sub>OneBrain · hello@onebrain.run · [@onebrain_run](https://x.com/onebrain_run)</sub>
