@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="OneBrain — Your AI Thinking Partner" width="100%">
+<img src="brain.png" alt="OneBrain" width="120">
+
+# OneBrain
 
 ### Your AI Thinking Partner — for Obsidian.
 
