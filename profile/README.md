@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="brain.png" alt="OneBrain" width="120">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.png">
-  <img alt="OneBrain" src="wordmark-light.png" width="240">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+  <img alt="OneBrain" src="header-light.png" width="420">
 </picture>
 
 ### Your AI Thinking Partner — for Obsidian.
