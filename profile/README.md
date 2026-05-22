@@ -30,15 +30,6 @@ brew install onebrain-ai/onebrain/onebrain
 npm install -g @onebrain-ai/cli
 ```
 
-## Projects
-
-| Repo | What it is |
-|---|---|
-| [`onebrain`](https://github.com/onebrain-ai/onebrain) | CLI · Claude Code plugin · agent core (`@onebrain-ai/cli`) |
-| [`website`](https://github.com/onebrain-ai/website) | Marketing site — [onebrain.run](https://onebrain.run) |
-
-→ [Read the full docs ↗](https://github.com/onebrain-ai/onebrain)
-
 ---
 
 <sub>OneBrain · hello@onebrain.run · [@onebrain_run](https://x.com/onebrain_run)</sub>
