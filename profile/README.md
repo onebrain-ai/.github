@@ -18,9 +18,20 @@
 
 ## What is OneBrain
 
-An AI OS that extends Claude Code, Gemini CLI, Codex, Qwen — adding persistent memory, 30+ skills, and personal calibration. Plain Markdown. Local-first. Yours forever.
+A personal AI OS for note-takers and developers — adds persistent memory, opinionated skills, and personal calibration to your terminal AI of choice.
 
 > Most tools ask you to query an AI. OneBrain **co-evolves** with you — every preference you teach sharpens the agent, every link it surfaces sharpens you.
+
+## What makes it different
+
+- 🧠 **Memory that compounds** — agent remembers your preferences, projects, and prior decisions across sessions; no re-explaining context
+- 🔒 **Local-first** — your vault lives in plain Markdown on your machine; no proprietary database, no cloud lock-in
+- 🛠️ **30+ skills out of the box** — `/daily` briefing · `/capture` quick notes · `/distill` topic synthesis · `/research` web→vault · `/wrapup` session log · more
+- 🔌 **Multi-harness** — Claude Code, Gemini CLI, Codex, Qwen — same skills, same memory, your choice of model
+- ⚡ **Single Rust binary** — 4.6 MB stripped · self-updating · zero runtime dependencies
+- 📝 **Plain Markdown** — read in any editor, sync via iCloud/Dropbox/git, your data outlives any tool
+
+## Install
 
 ```bash
 # macOS
