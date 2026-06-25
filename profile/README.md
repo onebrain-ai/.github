@@ -10,7 +10,7 @@
 
 <a href="https://www.npmjs.com/package/@onebrain-ai/cli"><img alt="npm" src="https://img.shields.io/npm/v/@onebrain-ai/cli?style=for-the-badge&logo=npm&color=cb3837&label=%40onebrain-ai%2Fcli"></a>
 <a href="https://github.com/onebrain-ai/onebrain/blob/main/CHANGELOG.md"><img alt="Plugin version" src="https://img.shields.io/github/package-json/v/onebrain-ai/onebrain?filename=.claude%2Fplugins%2Fonebrain%2F.claude-plugin%2Fplugin.json&style=for-the-badge&label=plugin&color=ff2d92"></a>
-<a href="https://github.com/onebrain-ai/onebrain/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0--only-7c3aed?style=for-the-badge"></a>
+<a href="https://github.com/onebrain-ai/onebrain/blob/main/LICENSE-MIT"><img alt="License: MIT OR Apache-2.0" src="https://img.shields.io/badge/license-MIT_OR_Apache--2.0-7c3aed?style=for-the-badge"></a>
 
 </div>
 
