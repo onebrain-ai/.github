@@ -28,7 +28,7 @@ A personal AI OS for note-takers and developers — adds persistent memory, opin
 - 🔒 **Local-first** — your vault lives in plain Markdown on your machine; no proprietary database, no cloud lock-in
 - 🛠️ **30+ skills out of the box** — `/daily` briefing · `/capture` quick notes · `/distill` topic synthesis · `/research` web→vault · `/wrapup` session log · more
 - 🔌 **Multi-harness** — Claude Code, Gemini CLI, Codex, Qwen — same skills, same memory, your choice of model
-- ⚡ **Single Rust binary** — 4.6 MB stripped · self-updating · zero runtime dependencies
+- ⚡ **Single Rust binary** — self-updating · zero runtime dependencies
 - 📝 **Plain Markdown** — read in any editor, sync via iCloud/Dropbox/git, your data outlives any tool
 
 ## Install
