@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="OneBrain — Your AI Thinking Partner" src="assets/header-light.png" width="560">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="OneBrain — Your AI Thinking Partner" src="assets/header-light.svg" width="560">
 </picture>
 
 <a href="https://onebrain.run"><img alt="Website" src="https://img.shields.io/badge/onebrain.run-0a0a14?style=for-the-badge&labelColor=ff2d92"></a>
