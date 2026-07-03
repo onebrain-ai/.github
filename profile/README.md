@@ -25,9 +25,11 @@ A personal AI OS for note-takers and developers — adds persistent memory, opin
 ## What makes it different
 
 - 🧠 **Memory that compounds** — agent remembers your preferences, projects, and prior decisions across sessions; no re-explaining context
+- 🔍 **Local semantic search** — hybrid keyword + ~100-language semantic search over your vault, Thai/CJK-aware, built into the binary — no Node, no Python, no cloud
+- 🖥️ **Built-in web UI** — `onebrain serve` opens a local, token-gated browser view of your vault: file explorer, reading view, search, and agent chat — nothing extra to install
 - 🔒 **Local-first** — your vault lives in plain Markdown on your machine; no proprietary database, no cloud lock-in
 - 🛠️ **30+ skills out of the box** — `/daily` briefing · `/capture` quick notes · `/distill` topic synthesis · `/research` web→vault · `/wrapup` session log · more
-- 🔌 **Multi-harness** — Claude Code, Gemini CLI, Codex, Qwen — same skills, same memory, your choice of model
+- 🔌 **Multi-harness + MCP** — Claude Code, Gemini CLI, Codex, Qwen, or any MCP client like Cursor — same skills, same memory, your choice of model
 - ⚡ **Single Rust binary** — self-updating · zero runtime dependencies
 - 📝 **Plain Markdown** — read in any editor, sync via iCloud/Dropbox/git, your data outlives any tool
 
